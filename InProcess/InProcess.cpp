@@ -38,7 +38,7 @@ void CInProcessApp::dllInit(HINSTANCE instance)
 	::PathRemoveExtension(m_name);
 	MY_TRACE_STR(m_name);
 
-	::StringCbCopy(m_information, sizeof(m_information), _T("複数ビューア version 1.0.0 by 蛇色"));
+	::StringCbCopy(m_information, sizeof(m_information), _T("複数ビューア version 1.0.1 by 蛇色"));
 	MY_TRACE_STR(m_information);
 }
 

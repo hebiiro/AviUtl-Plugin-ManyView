@@ -1,5 +1,6 @@
 ﻿# AviUtl プラグイン - 複数ビューア
 
+* version 1.0.1 by 蛇色 - 2022/03/15 欠落ファイルがあったのを修正
 * version 1.0.0 by 蛇色 - 2022/03/15 初版
 
 映像確認用の複数のビューアを表示します。
@@ -8,7 +9,8 @@
 
 以下のファイルとフォルダを AviUtl の Plugins フォルダに入れてください。
 * ManyView.auf
-* ManyView.ini
+* auls_memref.ini
+* ManyView (フォルダ)
 
 ## 使用方法
 
